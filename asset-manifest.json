@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/AmeerShop/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/AmeerShop/static/js/main.3d71b60c.chunk.js",
+    "main.js.map": "/AmeerShop/static/js/main.3d71b60c.chunk.js.map",
+    "runtime-main.js": "/AmeerShop/static/js/runtime-main.2ee2b7fb.js",
+    "runtime-main.js.map": "/AmeerShop/static/js/runtime-main.2ee2b7fb.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/AmeerShop/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.f4e901cd.chunk.js": "/AmeerShop/static/js/2.f4e901cd.chunk.js",
+    "static/js/2.f4e901cd.chunk.js.map": "/AmeerShop/static/js/2.f4e901cd.chunk.js.map",
+    "index.html": "/AmeerShop/index.html",
+    "precache-manifest.5836ca8fd3093f2ab5316e4143933afc.js": "/AmeerShop/precache-manifest.5836ca8fd3093f2ab5316e4143933afc.js",
+    "service-worker.js": "/AmeerShop/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/AmeerShop/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/AmeerShop/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f4e901cd.chunk.js.LICENSE.txt": "/AmeerShop/static/js/2.f4e901cd.chunk.js.LICENSE.txt",
+    "static/media/a1.jpg": "/AmeerShop/static/media/a1.b7947845.jpg",
+    "static/media/a2.png": "/AmeerShop/static/media/a2.37dc673d.png",
+    "static/media/a3.jpg": "/AmeerShop/static/media/a3.8f06b481.jpg",
+    "static/media/a4.jpg": "/AmeerShop/static/media/a4.138fce3c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ee2b7fb.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.f4e901cd.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.3d71b60c.chunk.js"
+  ]
+}
